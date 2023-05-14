@@ -22,7 +22,7 @@ To run the benchmark demo locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/benchmarkdemo.git
+   git clone https://github.com/bhuwan1990/BenchmarkDemo.git
    
 $ dotnet add package BenchmarkDotNet
 We install the BenchmarkDotNet package.
