@@ -27,5 +27,8 @@ To run the benchmark demo locally, follow these steps:
 $ dotnet add package BenchmarkDotNet
 We install the BenchmarkDotNet package.
 
+
 $ dotnet run --project BenchmarkDemo.csproj -c Release
 This is how we run our benchmark.
+![image](https://github.com/bhuwan1990/BenchmarkDemo/assets/37440900/ce739fd2-9873-46f2-a0af-0cea329fafd1)
+
